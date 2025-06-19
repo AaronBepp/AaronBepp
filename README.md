@@ -3,7 +3,7 @@
 <h3 align="center"> UI/UX Designer for Roblox</h3>
 
 <p align="center">
-  <img src="file:///C:/Users/aaron/Downloads/jake-the-dog_800.gif" width="100">
+  <img src="https://media1.tenor.com/m/gC13ieqXJrYAAAAC/music-headphones.gif" width="125">
 </p>
 
 ---

@@ -1,4 +1,4 @@
-<h1 align="center">BeppLeyatsu</h1>
+<h1 align="center">Fenix</h1>
 
 <h3 align="center"> UI/UX Designer for Roblox</h3>
 
@@ -9,7 +9,7 @@
 ---
 
  **About Me:**  
-Hello I am **Ieyatsu**.  
+Hello I am **Fenix**.  
 I'm **Brazilian** and today I work with **Figma and UI/UX design for Roblox**. With **1 year of experience** in these areas, I am working increasingly harder to deliver better and better results.
 
 ---

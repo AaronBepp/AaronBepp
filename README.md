@@ -15,9 +15,9 @@ I'm **Brazilian** and today I work with **Figma and UI/UX design for Roblox**. I
 ---
 
 **Here's my pricing:**
-- **$10** – Concept + Import
-- **$20** – Stylized Concept + Import + Animations
-- **$30** – Stylized Concept + Import + Animations + Flexible for requests 
+- **$5** – Concept + Import
+- **$10** – Stylized Concept + Import + Animations
+- **$15** – Stylized Concept + Import + Animations + Flexible for requests 
 
  **Contact Me:**  
 - **Discord:**  aaron.lindner
